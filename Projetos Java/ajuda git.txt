@@ -1,0 +1,19 @@
+Git 
+baixando projeto
+
+acesse o 'GITHUB" e copie o link do projeto
+após isso acesso em seu computador 
+mouse direito na pasta desejada
+GuitBash
+digite "git clone" e cole o link
+
+subir para github
+git add . ou git add -a
+para adicionar o arquivo com descrição
+git commit -m "descrição" 
+para atualizar no sistema
+git push origin main
+
+alguns comandos
+git status
+
